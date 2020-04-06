@@ -1,0 +1,16 @@
+
+<template name="nodata">
+	<view class="nodata  {{typeClass}}" >
+		<image  class="nodata-img"
+		mode="aspectFill"
+		src="../../../image/rank-no.png"></image>
+		<view class="nodata-text">{{text}}</view >
+		<navigator wx:if="{{link && buttonText}}"
+		class="nodata-link"
+		 url="{{link}}" open-type="switchTab"
+		 hover-class="none">
+			<button class="weui-btn " type="primary"
+			size="mini">{{buttonText}}</button>
+		</navigator>
+	</view>
+</template>

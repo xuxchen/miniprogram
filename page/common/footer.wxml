@@ -1,0 +1,6 @@
+<view class="weui-footer weui-footer_fixed-bottom">
+    <view class="weui-footer__links">
+        <navigator url="/page/news/content?id=2" class="weui-footer__link">店助手</navigator>
+    </view>
+    <view class="weui-footer__text">Copyright © 2020-2022 亿金科技</view>
+</view>

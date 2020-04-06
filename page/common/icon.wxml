@@ -1,0 +1,3 @@
+<template name="icon">
+	<image class="ico-{{icoId}} {{className}} " mode="aspectFit" src="http://saleimg.snsdian.com/icon/{{icoId}}.png"></image>
+</template>

@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "page/index/index",
+    "page/login/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "初始化",
+    "navigationBarBackgroundColor": "#fe1849",
+    "backgroundColor": "#f4f4f4"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#fe1849",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "page/index/index",
+        "iconPath": "image/tab/discover.png",
+        "selectedIconPath": "image/tab/discover_on.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "page/index/index",
+        "iconPath": "image/tab/discover.png",
+        "selectedIconPath": "image/tab/discover_on.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  },
+  "debug": false,
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置将用于获取附近商家"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}

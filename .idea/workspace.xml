@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a59c6cad-a248-4136-828f-b39213b04614" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/login/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/index/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/index/index.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/index/index.wxml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/wxtool.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="481" column="32" lean-forward="true" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/index/index.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/login/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/login/index.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ico</find>
+      <find>icon.wxml</find>
+      <find>nodata</find>
+      <find>pickup</find>
+      <find>viewTap</find>
+      <find>applyId</find>
+      <find>/order/pay</find>
+      <find>/orders</find>
+      <find>cUserId</find>
+      <find>list: {}</find>
+      <find>dataList</find>
+      <find>for(</find>
+      <find>weui-media-box__thumb</find>
+      <find>weui-media-box__hd</find>
+      <find>confirm</find>
+      <find>list</find>
+      <find>countD</find>
+      <find>sw</find>
+      <find>type=&quot;file&quot; accept=</find>
+      <find>userInfo</find>
+      <find>money</find>
+      <find>jifen</find>
+      <find>getAddress</find>
+      <find>isUploadImg</find>
+      <find>status</find>
+      <find>number</find>
+      <find>fields</find>
+      <find>icon.</find>
+      <find>thisData</find>
+      <find>imageList.length</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>}.png&quot;&gt;</replace>
+      <replace>/image/</replace>
+      <replace>tagName</replace>
+      <replace>999</replace>
+      <replace>did</replace>
+      <replace>商家</replace>
+      <replace>vo</replace>
+      <replace>img_path</replace>
+      <replace>cuId</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/page/mine</dir>
+      <dir>$PROJECT_DIR$/serivce</dir>
+      <dir>$PROJECT_DIR$/page/activity/turn-plate</dir>
+      <dir>$PROJECT_DIR$/components/wheel</dir>
+      <dir>$PROJECT_DIR$/page/activity</dir>
+      <dir>$PROJECT_DIR$/page</dir>
+      <dir>$PROJECT_DIR$/shoppage/activity</dir>
+      <dir>$PROJECT_DIR$/shoppage</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/serivce/UserService.js" />
+        <option value="$PROJECT_DIR$/utils/util.js" />
+        <option value="$PROJECT_DIR$/page/mine/wallet/withdraw.js" />
+        <option value="$PROJECT_DIR$/page/mine/wallet/withdraw_detail.wxml" />
+        <option value="$PROJECT_DIR$/page/mine/wallet/wallet.wxml" />
+        <option value="$PROJECT_DIR$/shoppage/manage/withdraw/index.json" />
+        <option value="$PROJECT_DIR$/serivce/ShopService.js" />
+        <option value="$PROJECT_DIR$/shoppage/manage/withdraw/index.wxss" />
+        <option value="$PROJECT_DIR$/shoppage/manage/shop/apply.js" />
+        <option value="$PROJECT_DIR$/shoppage/manage/index.wxml" />
+        <option value="$PROJECT_DIR$/shoppage/manage/withdraw/index.wxml" />
+        <option value="$PROJECT_DIR$/shoppage/manage/agent/index.js" />
+        <option value="$PROJECT_DIR$/shoppage/manage/withdraw/index.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/free_trial/add.wxml" />
+        <option value="$PROJECT_DIR$/page/mine/activity/address.json" />
+        <option value="$PROJECT_DIR$/page/mine/activity/address.wxml" />
+        <option value="$PROJECT_DIR$/page/mine/activity/address.wxss" />
+        <option value="$PROJECT_DIR$/page/mine/activity/address.js" />
+        <option value="$PROJECT_DIR$/page/mine/activity/index.wxml" />
+        <option value="$PROJECT_DIR$/shoppage/activity/apply_list.wxml" />
+        <option value="$PROJECT_DIR$/shoppage/activity/apply_list.js" />
+        <option value="$PROJECT_DIR$/shoppage/shop/upgrade.wxss" />
+        <option value="$PROJECT_DIR$/shoppage/shop/upgrade.wxml" />
+        <option value="$PROJECT_DIR$/serivce/LoginService.js" />
+        <option value="$PROJECT_DIR$/page/login/login.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/add_index.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/news/add.json" />
+        <option value="$PROJECT_DIR$/shoppage/activity/add_index.wxml" />
+        <option value="$PROJECT_DIR$/shoppage/activity/news/add.wxml" />
+        <option value="$PROJECT_DIR$/serivce/ActivityService.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/news/add.js" />
+        <option value="$PROJECT_DIR$/page/mine/agent/index.js" />
+        <option value="$PROJECT_DIR$/page/mine/comment/index.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/booking/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/coupon/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/deputy/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/draw_prize/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/free_trial/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/pintuan/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/activity/seckill/add.js" />
+        <option value="$PROJECT_DIR$/shoppage/shop/govip.js" />
+        <option value="$PROJECT_DIR$/page/activity/detail.wxml" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/app.wxss" />
+        <option value="$PROJECT_DIR$/page/login/index.wxml" />
+        <option value="$PROJECT_DIR$/page/login/index.wxss" />
+        <option value="$PROJECT_DIR$/page/login/index.js" />
+        <option value="$PROJECT_DIR$/page/index/index.wxml" />
+        <option value="$PROJECT_DIR$/page/index/index.wxss" />
+        <option value="$PROJECT_DIR$/page/index/index.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="user" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/projects/sale-tool/user" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="user" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/projects/sale-tool/user" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="user" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/projects/sale-tool/user" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mine" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="user" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/projects/sale-tool/user" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mine" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="agent_manage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniprogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+              <item name="serivce" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/page/login" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image/icon" />
+      <recent name="$PROJECT_DIR$/image/common" />
+      <recent name="$PROJECT_DIR$/shoppage/field" />
+      <recent name="$PROJECT_DIR$/shoppage/activity" />
+      <recent name="$PROJECT_DIR$/shoppage/shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/page/login" />
+      <recent name="$PROJECT_DIR$/shoppage/activity/news" />
+      <recent name="$PROJECT_DIR$/shoppage/common" />
+      <recent name="$PROJECT_DIR$/page/mine/consume" />
+      <recent name="$PROJECT_DIR$/image/icon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="format" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.format" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a59c6cad-a248-4136-828f-b39213b04614" name="Default" comment="" />
+      <created>1540539402718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540539402718</updated>
+      <workItem from="1540539405022" duration="3777000" />
+      <workItem from="1540645405417" duration="2091000" />
+      <workItem from="1540973750249" duration="15444000" />
+      <workItem from="1541154289386" duration="1386000" />
+      <workItem from="1541223837511" duration="7928000" />
+      <workItem from="1541385267246" duration="2635000" />
+      <workItem from="1541669976390" duration="474000" />
+      <workItem from="1541758989518" duration="658000" />
+      <workItem from="1541841025802" duration="190928000" />
+      <workItem from="1543456434623" duration="11332000" />
+      <workItem from="1544022725711" duration="17451000" />
+      <workItem from="1544501544904" duration="83041000" />
+      <workItem from="1545183517322" duration="458000" />
+      <workItem from="1545186304225" duration="51330000" />
+      <workItem from="1546234005646" duration="415000" />
+      <workItem from="1546411110267" duration="528000" />
+      <workItem from="1546570477658" duration="553000" />
+      <workItem from="1546671254364" duration="22522000" />
+      <workItem from="1547367152499" duration="9386000" />
+      <workItem from="1547538844142" duration="632000" />
+      <workItem from="1547546357873" duration="16051000" />
+      <workItem from="1547632885668" duration="9742000" />
+      <workItem from="1547780912293" duration="6941000" />
+      <workItem from="1548064841789" duration="18972000" />
+      <workItem from="1549939514611" duration="504000" />
+      <workItem from="1550045977441" duration="3406000" />
+      <workItem from="1550648343499" duration="8149000" />
+      <workItem from="1550802268813" duration="58084000" />
+      <workItem from="1552973741754" duration="3104000" />
+      <workItem from="1553492328527" duration="1215000" />
+      <workItem from="1556006322322" duration="2172000" />
+      <workItem from="1557913155204" duration="1238000" />
+      <workItem from="1558584658166" duration="2012000" />
+      <workItem from="1558592390432" duration="3613000" />
+      <workItem from="1558599457023" duration="6000" />
+      <workItem from="1558599491853" duration="1634000" />
+      <workItem from="1558768195491" duration="96375000" />
+      <workItem from="1561706512955" duration="9000" />
+      <workItem from="1562123069614" duration="38660000" />
+      <workItem from="1562925892889" duration="51876000" />
+      <workItem from="1564152342152" duration="1709000" />
+      <workItem from="1564366712025" duration="283000" />
+      <workItem from="1564371739312" duration="461000" />
+      <workItem from="1565070678398" duration="142000" />
+      <workItem from="1565235492804" duration="132000" />
+      <workItem from="1565862201160" duration="42000" />
+      <workItem from="1565862253659" duration="194000" />
+      <workItem from="1565862516047" duration="451000" />
+      <workItem from="1565863763204" duration="2904000" />
+      <workItem from="1566648904125" duration="1845000" />
+      <workItem from="1567832605747" duration="81000" />
+      <workItem from="1568106817590" duration="2123000" />
+      <workItem from="1568272644539" duration="9560000" />
+      <workItem from="1569403237884" duration="2305000" />
+      <workItem from="1570687793839" duration="2996000" />
+      <workItem from="1570774193428" duration="16008000" />
+      <workItem from="1571821939001" duration="2337000" />
+      <workItem from="1571993226129" duration="1491000" />
+      <workItem from="1574068522063" duration="1444000" />
+      <workItem from="1574147671380" duration="23877000" />
+      <workItem from="1574750041698" duration="2839000" />
+      <workItem from="1575614389353" duration="30815000" />
+      <workItem from="1576486259360" duration="255000" />
+      <workItem from="1576497810535" duration="1781000" />
+      <workItem from="1576724488399" duration="225913000" />
+      <workItem from="1582165331995" duration="46142000" />
+      <workItem from="1583288215730" duration="155000" />
+      <workItem from="1583292787571" duration="50625000" />
+      <workItem from="1583913304757" duration="157091000" />
+      <workItem from="1586177574950" duration="781000" />
+      <workItem from="1586178404091" duration="1006000" />
+      <workItem from="1586179493556" duration="912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1335432000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="956" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48831776" visible="true" weight="0.15551537" />
+      <window_info id="Structure" order="1" weight="0.24954791" />
+      <window_info id="npm" order="2" sideWeight="0.5116823" side_tool="true" weight="0.15129596" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.1712963" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978903" weight="0.47976878" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28092486" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947975" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3275463" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021097" side_tool="true" weight="0.12993039" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48831776" visible="true" weight="0.15551537" />
+      <window_info id="Structure" order="1" weight="0.24954791" />
+      <window_info id="npm" order="2" sideWeight="0.5116823" side_tool="true" weight="0.15129596" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.35144508" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978903" weight="0.47976878" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28092486" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947975" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32947975" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3283237" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021097" side_tool="true" weight="0.12993039" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/index.wxml" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/index.js" />
+    <entry file="file://$PROJECT_DIR$/page/mine/agent/index.js" />
+    <entry file="file://$PROJECT_DIR$/page/mine/comment/index.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/booking/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/coupon/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/deputy/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/news/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/draw_prize/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/free_trial/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/pintuan/add.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/project.config.json" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/shoppage/activity/seckill/add.js" />
+    <entry file="file://$PROJECT_DIR$/shoppage/shop/govip.js" />
+    <entry file="file://$PROJECT_DIR$/page/login/login.js" />
+    <entry file="file://$PROJECT_DIR$/page/activity/detail.wxml" />
+    <entry file="file://$PROJECT_DIR$/page/activity/detail.js" />
+    <entry file="file://$PROJECT_DIR$/components/login_view.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/editor/assets/iconfont.wxss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/waterfall_source.js" />
+    <entry file="file://$PROJECT_DIR$/model/model.wxml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/model.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/model.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serivce/AdService.js" />
+    <entry file="file://$PROJECT_DIR$/utils/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/utils/area.js" />
+    <entry file="file://$PROJECT_DIR$/serivce/BaseService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/throttle.js" />
+    <entry file="file://$PROJECT_DIR$/utils/xiaojueding.js" />
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/router.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/wxhttp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index/index.wxml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/wxtool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="481" column="32" lean-forward="true" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
